@@ -1,0 +1,7 @@
+browser_cookie3
+pyfiglet
+colorama
+requests
+coloredlogs
+pandas
+openpyxl
